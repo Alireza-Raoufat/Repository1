@@ -1,0 +1,15 @@
+
+
+
+.pr {
+    border-radius:5px;
+    border: 1px solid white;
+    width: 200px;
+    padding: 5px;
+}
+.pr{
+    border-radius: 5px;
+}
+.inf{
+    color: rgb(20, 0, 245);
+}
